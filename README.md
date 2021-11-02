@@ -11,7 +11,7 @@ As web develper novice I don't close myself to any lenguage, but I have my prefe
 ### 🪢 Main technologies that I know
 - *database*
 <div style"display:flex">
-<img src="https://i.imgur.com/3QU6MQy.png" width="50px"></img>
+<img src="https://i.imgur.com/a3WJKNP.png" width="50px"></img>
 <img src="https://i.imgur.com/1zwovN5.png" width="50px"></img>
 </div>
 
@@ -30,7 +30,7 @@ As web develper novice I don't close myself to any lenguage, but I have my prefe
 - *frontend*
 <div style"display:flex">
 <img src="https://i.imgur.com/3QU6MQy.png" width="50px"></img>
-<img src="https://i.imgur.com/1zwovN5.png" width="50px"></img>
+<img src="https://i.imgur.com/LuJ7OeP.png" width="50px"></img>
 </div>
 
 - *others*
