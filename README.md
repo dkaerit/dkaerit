@@ -11,8 +11,9 @@ As web develper novice I don't close myself to any lenguage, but I have my prefe
 ### 🪢 Main technologies that I know
 - *database*
 - *programing language*
-- *server languages & frameworks*
-- *othes*
+- *server languages*
+- *frontend*
+- *others*
 
 <!--
 **dkaerit/dkaerit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
