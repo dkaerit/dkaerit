@@ -2,7 +2,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=dkaerit)
 
 I'm a full-stack software student, learning at La Laguna's University, studying the degree in Computer Engineering. Love web develop, graphic design and roleplay.
-As web developer novice I don't close myself to any lenguage, but I have my preferences in technologies based on javascript and typescript.
+As web developer novice I don't close myself to any lenguage, but I have my preferences on javascript and typescript.
 
 ### 📈 My Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkaerit&theme=github_dark&hide_border=true)](https://github.com/dkaerit/github-readme-stats)
