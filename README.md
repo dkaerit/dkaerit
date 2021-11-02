@@ -11,28 +11,32 @@ As web develper novice I don't close myself to any lenguage, but I have my prefe
 ### 🪢 Main technologies that I know
 - *database*
 <div style"display:flex">
-<img src="https://imgur.com/1zwovN5"></img>
-<img src="https://imgur.com/a3WJKNP"></img>
+<img src="https://i.imgur.com/3QU6MQy.png"></img>
+<img src="https://i.imgur.com/1zwovN5.png"></img>
 </div>
 
 - *programing language*
 <div style"display:flex">
-<blockquote class="imgur-embed-pub" lang="en" data-id="LuJ7OeP"><a href="https://imgur.com/LuJ7OeP">View post on imgur.com</a></blockquote>
+<img src="https://i.imgur.com/3QU6MQy.png"></img>
+<img src="https://i.imgur.com/1zwovN5.png"></img>
 </div>
 
 - *server languages*
 <div style"display:flex">
-<blockquote class="imgur-embed-pub" lang="en" data-id="LuJ7OeP"><a href="https://imgur.com/LuJ7OeP">View post on imgur.com</a></blockquote>
+<img src="https://i.imgur.com/3QU6MQy.png"></img>
+<img src="https://i.imgur.com/1zwovN5.png"></img>
 </div>
 
 - *frontend*
 <div style"display:flex">
-<blockquote class="imgur-embed-pub" lang="en" data-id="LuJ7OeP"><a href="https://imgur.com/LuJ7OeP">View post on imgur.com</a></blockquote>
+<img src="https://i.imgur.com/3QU6MQy.png"></img>
+<img src="https://i.imgur.com/1zwovN5.png"></img>
 </div>
 
 - *others*
 <div style"display:flex">
-<blockquote class="imgur-embed-pub" lang="en" data-id="LuJ7OeP"><a href="https://imgur.com/LuJ7OeP">View post on imgur.com</a></blockquote>
+<img src="https://i.imgur.com/3QU6MQy.png"></img>
+<img src="https://i.imgur.com/1zwovN5.png"></img>
 </div>
 
 <!--
