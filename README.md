@@ -10,6 +10,9 @@ As web develper novice I don't close myself to any lenguage, but I have my prefe
 
 ### 🪢 Main technologies that I know
 - *database*
+<div style"display:flex">
+[Imgur](https://imgur.com/Ng7E5Qv)
+</div>
 - *programing language*
 - *server languages*
 - *frontend*
