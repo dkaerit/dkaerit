@@ -6,7 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkaerit&layout=compact&langs_count=8&theme=github_dark&hide_border=true)](https://github.com/dkaerit/github-readme-stats)
 
 ### 📊 This Week I Spent My Time On
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dkaerit&theme=github_dark&hide_border=true)](https://github.com/dkaerit/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
