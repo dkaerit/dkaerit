@@ -8,6 +8,8 @@ As web develper novice I don't close myself to any lenguage, but I have my prefe
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkaerit&theme=github_dark&hide_border=true)](https://github.com/dkaerit/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkaerit&layout=compact&langs_count=8&theme=github_dark&hide_border=true)](https://github.com/dkaerit/github-readme-stats)
 
+### 📈 Main technologies
+
 <!--
 **dkaerit/dkaerit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
