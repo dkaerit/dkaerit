@@ -26,9 +26,8 @@ As web develper novice I don't close myself to any lenguage, but I have my prefe
 
 </div>
 
-- *server languages, services & technologies*
+- *server languages & technologies*
 <div style"display:flex">
-<img src="https://i.imgur.com/3QU6MQy.png" width="50px"></img>
 <img src="https://i.imgur.com/EoUpvz8.png" width="50px"></img>
 <img src="https://i.imgur.com/mn9ZaQY.png" width="50px"></img>
 <img src="https://i.imgur.com/Bgn4MUP.png" width="50px"></img>
@@ -49,7 +48,6 @@ As web develper novice I don't close myself to any lenguage, but I have my prefe
 - *others*
 <div style"display:flex">
 <img src="https://i.imgur.com/Ng7E5Qv.png" width="50px"></img>
-<img src="https://i.imgur.com/1zwovN5.png" width="50px"></img>
 </div>
 
 <!--
