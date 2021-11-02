@@ -1,5 +1,5 @@
 ## Hi there, I'm Diego Vázquez 👋 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=dkaerit)
 
 I'm a full-stack software student, learning at La Laguna's University, studying the degree in Computer Engineering. Love web develop, graphic design and roleplay.
 As web develper novice I don't close myself to any lenguage, but I have my preferences in technologies based on javascript and typescript.
