@@ -12,7 +12,7 @@ As web develper novice I don't close myself to any lenguage, but I have my prefe
 - *database*
 
 <div style"display:flex">
-[Imgur](https://imgur.com/Ng7E5Qv)
+<img src="https://i.imgur.com/Ng7E5Qv.png" width="50px"></img>
 </div>
 
 - *programing language*
