@@ -50,7 +50,7 @@ As web develper novice I don't close myself to any lenguage, but I have my prefe
 <div style"display:flex">
 <img src="https://i.imgur.com/Ng7E5Qv.png" width="50px"></img>
 <img src="https://i.imgur.com/rwbefuI.png" width="50px"></img>
-
+<img src="https://i.imgur.com/ydExxDQ.png" width="50px"></img>
 </div>
 
 <!--
