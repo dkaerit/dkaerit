@@ -19,6 +19,9 @@ As web develper novice I don't close myself to any lenguage, but I have my prefe
 <div style"display:flex">
 <img src="https://i.imgur.com/KpC7qZK.png" width="50px"></img>
 <img src="https://i.imgur.com/IybtiYc.png" width="50px"></img>
+<img src="https://i.imgur.com/r8NMiSe.png" width="50px"></img>
+<img src="https://i.imgur.com/CmouEIk.png" width="50px"></img>
+
 </div>
 
 - *server languages*
@@ -32,6 +35,8 @@ As web develper novice I don't close myself to any lenguage, but I have my prefe
 <div style"display:flex">
 <img src="https://i.imgur.com/3QU6MQy.png" width="50px"></img>
 <img src="https://i.imgur.com/LuJ7OeP.png" width="50px"></img>
+<img src="https://i.imgur.com/pKND2oS.png" width="50px"></img>
+
 </div>
 
 - *others*
