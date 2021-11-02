@@ -1,8 +1,8 @@
 ### Hi there, I'm Diego Vázquez 👋 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-![dkaerit's Github Stats](https://github-readme-stats.vercel.app/api?username=dkaerit&bg_color=30,161b22,0d1117&title_color=fff&text_color=fff&border_color=30363d&show_icons=true&card_width=50)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkaerit&bg_color=30,161b22,0d1117&title_color=fff&text_color=fff&border_color=30363d&card_width=50)](https://github.com/dkaerit/github-readme-stats)
+![dkaerit's Github Stats](https://github-readme-stats.vercel.app/api?username=dkaerit&bg_color=30,161b22,0d1117&title_color=fff&text_color=fff&border_color=30363d&show_icons=true&card_width=150)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkaerit&bg_color=30,161b22,0d1117&title_color=fff&text_color=fff&border_color=30363d&card_width=150)](https://github.com/dkaerit/github-readme-stats)
 
 <!--
 **dkaerit/dkaerit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
