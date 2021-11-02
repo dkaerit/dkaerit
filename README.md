@@ -36,6 +36,8 @@ As web develper novice I don't close myself to any lenguage, but I have my prefe
 <img src="https://i.imgur.com/3QU6MQy.png" width="50px"></img>
 <img src="https://i.imgur.com/LuJ7OeP.png" width="50px"></img>
 <img src="https://i.imgur.com/pKND2oS.png" width="50px"></img>
+<img src="https://i.imgur.com/dEYmax0.png" width="50px"></img>
+
 
 </div>
 
