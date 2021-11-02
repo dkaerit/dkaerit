@@ -10,15 +10,30 @@ As web develper novice I don't close myself to any lenguage, but I have my prefe
 
 ### 🪢 Main technologies that I know
 - *database*
-
 <div style"display:flex">
-<img src="https://i.imgur.com/Ng7E5Qv.png" width="50px"></img>
+<blockquote class="imgur-embed-pub" lang="en" data-id="1zwovN5"><a href="https://imgur.com/1zwovN5">View post on imgur.com</a></blockquote>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a3WJKNP"><a href="https://imgur.com/a3WJKNP">View post on imgur.com</a></blockquote>
 </div>
 
 - *programing language*
+<div style"display:flex">
+<blockquote class="imgur-embed-pub" lang="en" data-id="LuJ7OeP"><a href="https://imgur.com/LuJ7OeP">View post on imgur.com</a></blockquote>
+</div>
+
 - *server languages*
+<div style"display:flex">
+<blockquote class="imgur-embed-pub" lang="en" data-id="LuJ7OeP"><a href="https://imgur.com/LuJ7OeP">View post on imgur.com</a></blockquote>
+</div>
+
 - *frontend*
+<div style"display:flex">
+<blockquote class="imgur-embed-pub" lang="en" data-id="LuJ7OeP"><a href="https://imgur.com/LuJ7OeP">View post on imgur.com</a></blockquote>
+</div>
+
 - *others*
+<div style"display:flex">
+<blockquote class="imgur-embed-pub" lang="en" data-id="LuJ7OeP"><a href="https://imgur.com/LuJ7OeP">View post on imgur.com</a></blockquote>
+</div>
 
 <!--
 **dkaerit/dkaerit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
