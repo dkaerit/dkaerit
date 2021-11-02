@@ -21,6 +21,8 @@ As web develper novice I don't close myself to any lenguage, but I have my prefe
 <img src="https://i.imgur.com/IybtiYc.png" width="50px"></img>
 <img src="https://i.imgur.com/r8NMiSe.png" width="50px"></img>
 <img src="https://i.imgur.com/CmouEIk.png" width="50px"></img>
+<img src="https://i.imgur.com/ZnFbxs7.png" width="50px"></img>
+
 
 </div>
 
@@ -37,6 +39,8 @@ As web develper novice I don't close myself to any lenguage, but I have my prefe
 <img src="https://i.imgur.com/LuJ7OeP.png" width="50px"></img>
 <img src="https://i.imgur.com/pKND2oS.png" width="50px"></img>
 <img src="https://i.imgur.com/dEYmax0.png" width="50px"></img>
+<img src="https://i.imgur.com/SYzhlf2.png" width="50px"></img>
+
 
 
 </div>
