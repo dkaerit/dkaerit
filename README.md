@@ -11,8 +11,8 @@ As web develper novice I don't close myself to any lenguage, but I have my prefe
 ### 🪢 Main technologies that I know
 - *database*
 <div style"display:flex">
-<blockquote class="imgur-embed-pub" lang="en" data-id="1zwovN5"><a href="https://imgur.com/1zwovN5">View post on imgur.com</a></blockquote>
-<blockquote class="imgur-embed-pub" lang="en" data-id="a3WJKNP"><a href="https://imgur.com/a3WJKNP">View post on imgur.com</a></blockquote>
+<img src="https://imgur.com/1zwovN5"></img>
+<img src="https://imgur.com/a3WJKNP"></img>
 </div>
 
 - *programing language*
