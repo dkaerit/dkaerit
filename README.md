@@ -1,10 +1,12 @@
 ## Hi there, I'm Diego Vázquez 👋 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
+I am a full-stack software student, learning at La Laguna's University, studying the degree in Computer Engineering. Love web develop, graphic design and roleplay.
+As web develper novice I don't close myself to any lenguage, but I have my preferences in technologies based on javascript and typescript.
+
 ### 📈 My Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkaerit&theme=github_dark&hide_border=true)](https://github.com/dkaerit/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkaerit&layout=compact&langs_count=8&theme=github_dark&hide_border=true)](https://github.com/dkaerit/github-readme-stats)
-
 
 <!--
 **dkaerit/dkaerit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
