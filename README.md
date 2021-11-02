@@ -1,7 +1,7 @@
 ### Hi there, I'm Diego Vázquez 👋 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-![dkaerit's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkaerit&show_icons=true&theme=github_dark&hide_border=true)
+![dkaerit's Github Stats](https://github-readme-stats.vercel.app/api?username=dkaerit&bg_color=30,2ebec6,31176c&title_color=fff&text_color=fff)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkaerit&layout=compact&theme=github_dark&hide_border=true)](https://github.com/dkaerit/github-readme-stats)
 
 <!--
