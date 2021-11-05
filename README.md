@@ -9,25 +9,17 @@ As web developer novice I don't close myself to any lenguage, but I have my pref
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkaerit&layout=compact&langs_count=8&theme=github_dark&hide_border=true)](https://github.com/dkaerit/github-readme-stats)
 
 ### 🪢 Main technologies that I know
-- *database*
 <div style"display:flex">
 <img src="https://i.imgur.com/gMy3bJb.png" width="40px"></img>
 <img src="https://i.imgur.com/mhcx3l0.png" width="40px"></img>
 <img src="https://i.imgur.com/1ngNAlG.png" width="40px"></img>
-<img src="https://i.imgur.com/8yb4JNp.png" width="40px" content="nil"></img>
+&nbsp;&nbsp;
 <img src="https://i.imgur.com/TG1Bzty.png" width="40px"></img>
 <img src="https://i.imgur.com/jvVLg4x.png" width="40px"></img>
 <img src="https://i.imgur.com/B5sXzti.png" width="40px"></img>
-<img src="https://i.imgur.com/B5sXzti.png" width="40px"></img>
-[img]https://i.imgur.com/ihIMRzn.png[/img]
-</div>
-
-- *programing language*
-<div style"display:flex">
-<img src="https://i.imgur.com/B5sXzti.png" width="40px"></img>
-<img src="https://i.imgur.com/ZnFbxs7.png" width="40px"></img>
-
-
+<img src="https://i.imgur.com/ihIMRzn.png" width="40px"></img>
+<img src="https://i.imgur.com/uUJwW39.png" width="40px"></img>
+<img src="https://i.imgur.com/8yb4JNp.png" width="40px" content="nil"></img>
 </div>
 
 - *server technologies*
