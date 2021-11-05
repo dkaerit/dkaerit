@@ -11,9 +11,10 @@ As web developer novice I don't close myself to any lenguage, but I have my pref
 ### 🪢 Main technologies that I know
 - *database*
 <div style"display:flex">
-<img src="https://i.imgur.com/a3WJKNP.png" width="50px"></img>
-<img src="https://i.imgur.com/1zwovN5.png" width="50px"></img>
-<img src="https://i.imgur.com/9zHPn1U.png" width="50px"></img>
+<img src="https://i.imgur.com/gMy3bJb.png" width="40px"></img>
+<img src="https://i.imgur.com/mhcx3l0.png" width="40px"></img>
+<img src="https://i.imgur.com/1ngNAlG.png" width="40px"></img>
+<img src="https://i.imgur.com/8yb4JNp.png" width="40px"></img>
 </div>
 
 - *programing language*
