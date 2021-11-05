@@ -13,17 +13,13 @@ As web developer novice I don't close myself to any lenguage, but I have my pref
 <img src="https://i.imgur.com/gMy3bJb.png" width="40px"></img>
 <img src="https://i.imgur.com/mhcx3l0.png" width="40px"></img>
 <img src="https://i.imgur.com/1ngNAlG.png" width="40px"></img>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <img src="https://i.imgur.com/TG1Bzty.png" width="40px"></img>
 <img src="https://i.imgur.com/jvVLg4x.png" width="40px"></img>
 <img src="https://i.imgur.com/B5sXzti.png" width="40px"></img>
 <img src="https://i.imgur.com/ihIMRzn.png" width="40px"></img>
 <img src="https://i.imgur.com/uUJwW39.png" width="40px"></img>
-<img src="https://i.imgur.com/8yb4JNp.png" width="40px" content="nil"></img>
-</div>
-
-- *server technologies*
-<div style"display:flex">
+&nbsp;&nbsp;&nbsp;
 <img src="https://i.imgur.com/72GbrEQ.png" width="50px"></img>
 <img src="https://i.imgur.com/mn9ZaQY.png" width="50px"></img>
 <img src="https://i.imgur.com/YWSrEnC.png" width="50px"></img>
