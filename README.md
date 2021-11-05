@@ -18,6 +18,8 @@ As web developer novice I don't close myself to any lenguage, but I have my pref
 <img src="https://i.imgur.com/TG1Bzty.png" width="40px"></img>
 <img src="https://i.imgur.com/jvVLg4x.png" width="40px"></img>
 <img src="https://i.imgur.com/B5sXzti.png" width="40px"></img>
+<img src="https://i.imgur.com/B5sXzti.png" width="40px"></img>
+[img]https://i.imgur.com/ihIMRzn.png[/img]
 </div>
 
 - *programing language*
