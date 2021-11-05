@@ -5,8 +5,8 @@ I'm a full-stack software student, learning at La Laguna's University, studying 
 As web developer novice I don't close myself to any lenguage, but I have my preferences on javascript and typescript.
 
 ### 📈 My Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkaerit&theme=github_dark&hide_border=true)](https://github.com/dkaerit/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkaerit&layout=compact&langs_count=8&theme=github_dark&hide_border=true)](https://github.com/dkaerit/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkaerit&theme=github_dark&hide_border=true)](https://github.com/dkaerit)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkaerit&layout=compact&langs_count=8&theme=github_dark&hide_border=true)](https://github.com/dkaerit)
 
 ### 🪢 Main technologies that I know
 <div style"display:flex">
