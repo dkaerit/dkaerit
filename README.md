@@ -28,10 +28,10 @@ As web developer novice I don't close myself to any lenguage, but I have my pref
 - *frontend*
 <div style"display:flex">
 <img src="https://i.imgur.com/dOP9Q37.png" width="40px"></img>
-<img src="https://i.imgur.com/LuJ7OeP.png" width="50px"></img>
-<img src="https://i.imgur.com/pKND2oS.png" width="50px"></img>
-<img src="https://i.imgur.com/dEYmax0.png" width="50px"></img>
-<img src="https://i.imgur.com/SYzhlf2.png" width="50px"></img>
+<img src="https://i.imgur.com/LuJ7OeP.png" width="40px"></img>
+<img src="https://i.imgur.com/pKND2oS.png" width="40px"></img>
+<img src="https://i.imgur.com/dEYmax0.png" width="40px"></img>
+<img src="https://i.imgur.com/SYzhlf2.png" width="40px"></img>
 
 
 
