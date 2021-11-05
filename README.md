@@ -18,25 +18,26 @@ As web developer novice I don't close myself to any lenguage, but I have my pref
 
 - *programing language*
 <div style"display:flex">
-<img src="https://i.imgur.com/KpC7qZK.png" width="50px"></img>
-<img src="https://i.imgur.com/IybtiYc.png" width="50px"></img>
-<img src="https://i.imgur.com/r8NMiSe.png" width="50px"></img>
-<img src="https://i.imgur.com/CmouEIk.png" width="50px"></img>
-<img src="https://i.imgur.com/ZnFbxs7.png" width="50px"></img>
+<img src="https://i.imgur.com/yV9TOpQ.png" width="40px"></img>
+
+
+<img src="[img]https://i.imgur.com/72GbrEQ.png" width="40px"></img>
+<img src="https://i.imgur.com/CmouEIk.png" width="40px"></img>
+<img src="https://i.imgur.com/ZnFbxs7.png" width="40px"></img>
 
 
 </div>
 
-- *server languages & technologies*
+- *server technologies*
 <div style"display:flex">
-<img src="https://i.imgur.com/EoUpvz8.png" width="50px"></img>
+<img src="https://i.imgur.com/72GbrEQ.png" width="50px"></img>
 <img src="https://i.imgur.com/mn9ZaQY.png" width="50px"></img>
-<img src="https://i.imgur.com/Bgn4MUP.png" width="50px"></img>
+<img src="https://i.imgur.com/YWSrEnC.png" width="50px"></img>
 </div>
 
 - *frontend*
 <div style"display:flex">
-<img src="https://i.imgur.com/3QU6MQy.png" width="50px"></img>
+<img src="https://i.imgur.com/dOP9Q37.png" width="40px"></img>
 <img src="https://i.imgur.com/LuJ7OeP.png" width="50px"></img>
 <img src="https://i.imgur.com/pKND2oS.png" width="50px"></img>
 <img src="https://i.imgur.com/dEYmax0.png" width="50px"></img>
@@ -48,9 +49,9 @@ As web developer novice I don't close myself to any lenguage, but I have my pref
 
 - *others*
 <div style"display:flex">
-<img src="https://i.imgur.com/Ng7E5Qv.png" width="50px"></img>
-<img src="https://i.imgur.com/rwbefuI.png" width="50px"></img>
-<img src="https://i.imgur.com/ydExxDQ.png" width="50px"></img>
+<img src="https://i.imgur.com/yV9TOpQ.png" width="40px"></img>
+<img src="https://i.imgur.com/rwbefuI.png" width="40px"></img>
+<img src="https://i.imgur.com/ydExxDQ.png" width="40px"></img>
 </div>
 
 <!--
