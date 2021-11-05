@@ -50,8 +50,8 @@ As web developer novice I don't close myself to any lenguage, but I have my pref
 - *others*
 <div style"display:flex">
 <img src="https://i.imgur.com/yV9TOpQ.png" width="40px"></img>
-<img src="https://i.imgur.com/rwbefuI.png" width="40px"></img>
-<img src="https://i.imgur.com/ydExxDQ.png" width="40px"></img>
+<img src="https://i.imgur.com/Au9Mo7e.png" width="40px"></img>
+<img src="https://i.imgur.com/ddL7scP.png" width="40px"></img>
 </div>
 
 <!--
