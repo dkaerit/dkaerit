@@ -30,6 +30,7 @@ As web developer novice I don't close myself to any lenguage, but I have my pref
 <img src="https://i.imgur.com/AORuY4P.png" width="40px"></img>
 <img src="https://i.imgur.com/Tu1TqD5.png" width="40px"></img>
 &nbsp;&nbsp;&nbsp;
+
 <img src="https://i.imgur.com/yV9TOpQ.png" width="40px"></img>
 <img src="https://i.imgur.com/Au9Mo7e.png" width="40px"></img>
 <img src="https://i.imgur.com/ddL7scP.png" width="40px"></img>
