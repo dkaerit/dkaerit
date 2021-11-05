@@ -1,4 +1,4 @@
-## Hi there, I'm Diego Vázquez <img src="https://i.imgur.com/csn2hC2.gif" width=25px style="display: inline-block"></img>
+## Hi there, I'm Diego Vázquez  <img src="https://i.imgur.com/csn2hC2.gif" width=25px style="display: inline-block"></img>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=dkaerit)
 
 I'm a full-stack software student, learning at La Laguna's University, studying the degree in Computer Engineering. Love web develop, graphic design and roleplay.
