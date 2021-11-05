@@ -21,20 +21,14 @@ As web developer novice I don't close myself to any lenguage, but I have my pref
 <img src="https://i.imgur.com/uUJwW39.png" width="40px"></img>
 &nbsp;&nbsp;&nbsp;
 <img src="https://i.imgur.com/72GbrEQ.png" width="40px"></img>
-<img src="https://i.imgur.com/mn9ZaQY.png" width="40px"></img>
+<img src="https://i.imgur.com/D3MOEaQ.png" width="40px"></img>
 <img src="https://i.imgur.com/YWSrEnC.png" width="40px"></img>
-</div>
-
-- *frontend*
-<div style"display:flex">
+&nbsp;&nbsp;&nbsp;
 <img src="https://i.imgur.com/dOP9Q37.png" width="40px"></img>
 <img src="https://i.imgur.com/LuJ7OeP.png" width="40px"></img>
 <img src="https://i.imgur.com/pKND2oS.png" width="40px"></img>
 <img src="https://i.imgur.com/dEYmax0.png" width="40px"></img>
 <img src="https://i.imgur.com/SYzhlf2.png" width="40px"></img>
-
-
-
 </div>
 
 - *others*
