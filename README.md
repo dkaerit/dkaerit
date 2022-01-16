@@ -32,7 +32,7 @@ As web developer novice I don't close myself to any lenguage, but I have my pref
 &nbsp;&nbsp;&nbsp;
 
 <img src="https://i.imgur.com/yV9TOpQ.png" width="40px"></img>
-<img src="https://i.imgur.com/Au9Mo7e.png" width="40px"></img>
+<a href="https://www.verilog.com/"><img src="https://i.imgur.com/Au9Mo7e.png" width="40px" alt="verilog"></img></a>
 <img src="https://i.imgur.com/ddL7scP.png" width="40px"></img>
 </div>
 
