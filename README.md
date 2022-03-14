@@ -14,7 +14,7 @@ As web developer novice I don't close myself to any lenguage, but I have my pref
 <img src="https://i.imgur.com/1ngNAlG.png" width="40px"></img>
 &nbsp;&nbsp;&nbsp;
 <img src="https://i.imgur.com/TG1Bzty.png" width="40px"></img>
-<img src="https://i.imgur.com/jvVLg4x.png" width="40px"></img>
+<a href="https://es.wikipedia.org/wiki/Prolog"><img src="https://i.imgur.com/jvVLg4x.png" width="40px" alt="prolog"></img></a>
 <img src="https://i.imgur.com/B5sXzti.png" width="40px"></img>
 <img src="https://i.imgur.com/ihIMRzn.png" width="40px"></img>
 <img src="https://i.imgur.com/uUJwW39.png" width="40px"></img>
