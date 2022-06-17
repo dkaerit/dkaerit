@@ -1,4 +1,4 @@
-## Hi there, I'm Diego Vázquez  <img src="https://i.imgur.com/csn2hC2.gif" width=15px style="display: inline-block"></img>
+## Hi there, I'm Diego Vázquez  <img src="https://i.imgur.com/csn2hC2.gif" width=15px height="15px" style="display: inline-block"></img>
 
 I'm a full-stack software student, learning at ull's University, studying the degree in Computer Engineering. Love web develop, graphic design and roleplay.
 As web developer novice I don't close myself to any lenguage, but I have my preferences on javascript and typescript.
