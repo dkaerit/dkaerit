@@ -7,7 +7,7 @@ As web developer novice I don't close myself to any lenguage, but I have my pref
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkaerit&theme=github_dark&hide_border=true)](https://github.com/dkaerit)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkaerit&layout=compact&langs_count=8&theme=github_dark&hide_border=true)](https://github.com/dkaerit)
 
-### 🪢 Main technologies which I know
+### 🧪 Main technologies which I know
 <div style"display:flex">
 <img src="https://i.imgur.com/gMy3bJb.png" width="40px"></img>
 <img src="https://i.imgur.com/mhcx3l0.png" width="40px"></img>
