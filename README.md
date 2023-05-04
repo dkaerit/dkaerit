@@ -11,29 +11,29 @@ And unlike the Pentoo team, I haven't declared myself dictator for life... yet.
 ### 🧪 Main technologies which I know
 <div style"display:flex">
 <img src="https://i.imgur.com/gMy3bJb.png" width="40px" title="MySQL"/>
-<img src="https://i.imgur.com/mhcx3l0.png" width="40px"></img>
-<img src="https://i.imgur.com/1ngNAlG.png" width="40px"></img>
+<img src="https://i.imgur.com/mhcx3l0.png" width="40px" title="PostgreSQL"/>
+<img src="https://i.imgur.com/1ngNAlG.png" width="40px" title="PL/SQL"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://i.imgur.com/TG1Bzty.png" width="40px"></img>
-<a href="https://es.wikipedia.org/wiki/Prolog"><img src="https://i.imgur.com/jvVLg4x.png" width="40px" alt="prolog"></img></a>
-<img src="https://i.imgur.com/B5sXzti.png" width="40px"></img>
-<img src="https://i.imgur.com/ihIMRzn.png" width="40px"></img>
-<img src="https://i.imgur.com/uUJwW39.png" width="40px"></img>
+<a href="https://es.wikipedia.org/wiki/Prolog"><img src="https://i.imgur.com/jvVLg4x.png" width="40px" title="MySQL"/></a>
+<img src="https://i.imgur.com/B5sXzti.png" width="40px" title="MySQL"/>
+<img src="https://i.imgur.com/ihIMRzn.png" width="40px" title="MySQL"/>
+<img src="https://i.imgur.com/uUJwW39.png" width="40px" title="MySQL"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://i.imgur.com/72GbrEQ.png" width="40px"></img>
-<img src="https://i.imgur.com/D3MOEaQ.png" width="40px"></img>
-<img src="https://i.imgur.com/YWSrEnC.png" width="40px"></img>
+<img src="https://i.imgur.com/72GbrEQ.png" width="40px" title="MySQL"/>
+<img src="https://i.imgur.com/D3MOEaQ.png" width="40px" title="MySQL"/>
+<img src="https://i.imgur.com/YWSrEnC.png" width="40px" title="MySQL"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://i.imgur.com/weYU4MI.png" width="40px"></img>
-<img src="https://i.imgur.com/dOP9Q37.png" width="40px"></img>
-<img src="https://i.imgur.com/AORuY4P.png" width="40px"></img>
-<img src="https://i.imgur.com/rSpARwt.png" width="40px"></img>
-<img src="https://i.imgur.com/Tu1TqD5.png" width="40px"></img>
+<img src="https://i.imgur.com/weYU4MI.png" width="40px" title="MySQL"/>
+<img src="https://i.imgur.com/dOP9Q37.png" width="40px" title="MySQL"/>
+<img src="https://i.imgur.com/AORuY4P.png" width="40px" title="MySQL"/>
+<img src="https://i.imgur.com/rSpARwt.png" width="40px" title="MySQL"/>
+<img src="https://i.imgur.com/Tu1TqD5.png" width="40px" title="MySQL"/>
 &nbsp;&nbsp;&nbsp;
 
-<img src="https://i.imgur.com/yV9TOpQ.png" width="40px"></img>
-<a href="https://www.verilog.com/"><img src="https://i.imgur.com/Au9Mo7e.png" width="40px" alt="verilog"></img></a>
-<img src="https://i.imgur.com/ddL7scP.png" width="40px"></img>
+<img src="https://i.imgur.com/yV9TOpQ.png" width="40px" title="MySQL"/>
+<a href="https://www.verilog.com/"><img src="https://i.imgur.com/Au9Mo7e.png" width="40px" title="MySQL"/></a>
+<img src="https://i.imgur.com/ddL7scP.png" width="40px" title="MySQL"/>
 </div>
 
 <!--
