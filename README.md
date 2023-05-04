@@ -10,7 +10,7 @@ And unlike the Pentoo team, I haven't declared myself dictator for life... yet.
 
 ### 🧪 Main technologies which I know
 <div style"display:flex">
-<img src="https://i.imgur.com/gMy3bJb.png" width="40px"></img>
+<img src="https://i.imgur.com/gMy3bJb.png" width="40px" title="hola mundo"></img>
 <img src="https://i.imgur.com/mhcx3l0.png" width="40px"></img>
 <img src="https://i.imgur.com/1ngNAlG.png" width="40px"></img>
 &nbsp;&nbsp;&nbsp;
