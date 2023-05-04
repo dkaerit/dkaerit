@@ -19,6 +19,7 @@ And unlike the Pentoo team, I haven't declared myself dictator for life... yet.
 <img src="https://i.imgur.com/B5sXzti.png" width="40px" title="ruby"/>
 <img src="https://i.imgur.com/ihIMRzn.png" width="40px" title="javascript"/>
 <img src="https://i.imgur.com/uUJwW39.png" width="40px" title="typescript"/>
+<img src="https://user-images.githubusercontent.com/24440929/236315295-f0eb5920-1ed3-4a2f-8248-d48f9b048cd2.png" width="40px" title="python"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://i.imgur.com/72GbrEQ.png" width="40px" title="deno"/>
 <img src="https://i.imgur.com/D3MOEaQ.png" width="40px" title="node"/>
