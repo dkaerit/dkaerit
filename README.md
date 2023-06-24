@@ -1,6 +1,6 @@
 ## Hi there, I'm Diego Vázquez 👋
 
-I'm a Node & TypeScript dev, a microservices wrangler(¿), and Docker tamer with a killer appetite for whales (the logo, not the real thing!). I'm experienced in web dev, networking, and IT management, and have dabbled in other programming languages too. When I'm not coding, you can find me battling dragons and exploring dungeons, or indulging my interests in design and art. Currently expanding my cybersecurity skills. Keeping my code secure is just as important as keeping my coffee hot ☕️
+I'm a Node & TypeScript dev, a microservices wrangler(¿), and Docker tamer. I'm experienced in web dev, networking, and IT management, and have dabbled in other programming languages too. When I'm not coding, you can find me battling dragons and exploring dungeons, or indulging my interests in design and art. Currently expanding my cybersecurity skills. Keeping my code secure is just as important as keeping my coffee hot ☕️
 
 ### 📈 My Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkaerit&theme=github_dark&hide_border=true)](https://github.com/dkaerit)
