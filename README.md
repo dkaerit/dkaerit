@@ -13,6 +13,7 @@ I'm a Node & TypeScript dev, a microservices wrangler(¿), and Docker tamer. I'm
 <img src="https://i.imgur.com/1ngNAlG.png" width="40px" title="PL/SQL"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://i.imgur.com/TG1Bzty.png" width="40px" title="c++"/>
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24440929/253923521-b95c50d6-7382-415f-ad9d-74cb61603636.png" width="40px" title="c#"/>
 <a href="https://es.wikipedia.org/wiki/Prolog"><img src="https://i.imgur.com/jvVLg4x.png" width="40px" title="prolog"/></a>
 <img src="https://i.imgur.com/B5sXzti.png" width="40px" title="ruby"/>
 <img src="https://i.imgur.com/ihIMRzn.png" width="40px" title="javascript"/>
