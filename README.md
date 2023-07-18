@@ -29,7 +29,8 @@ I'm a Node & TypeScript dev, a microservices wrangler(¿), and Docker tamer. I'm
 <img src="https://i.imgur.com/AORuY4P.png" width="40px" title="sass"/>
 <img src="https://i.imgur.com/rSpARwt.png" width="40px" title="react"/>
 <img src="https://i.imgur.com/Tu1TqD5.png" width="40px" title="vue"/>
-&nbsp;&nbsp;&nbsp;
+<!--&nbsp;&nbsp;&nbsp;-->
+<br/>
 
 <img src="https://i.imgur.com/yV9TOpQ.png" width="40px" title="bash"/>
 <a href="https://www.verilog.com/"><img src="https://i.imgur.com/Au9Mo7e.png" width="40px" title="verilog"/></a>
